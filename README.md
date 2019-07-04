@@ -1,2 +1,3 @@
-# smartcontract-teste
-Smart Contract de teste
+# Smart Contract de teste
+
+Por Emanuel Lima
